@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there! ^_^
 
-<!--
-**jackfixes/jackfixes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You're one of nearly eight billion people alive on the planet, and you're spending your time reading my personal README. That's pretty cool to me. Maybe you're here because you read my resume and decided to check me out. Maybe you're someone just browsing githubs, like I do sometimes. Maybe you're a friend or family member who looked me up and found this. Whoever you are, and whyever you're here, I just want to say thanks for spending a bit of time with my words.
 
-Here are some ideas to get you started:
+Here's a little about me. You might've guessed this, but my name is Jack, and I ~~like~~ ~~love~~ adore computers. I've been fascinated by them for as long as I can remember, from the time I had my first iPad as a kid, to the first time I stole my mom's computer and figured out how to log in to the guest account to learn about the Periodic Table of Elements. I was eight at the time, had never used any computer but an iPad in my whole life, and really, _really_ wanted to know what the atomic number for Tungsten was (it's 74, by the way). When I was twelve, I finally managed to get my hands on my first MacBook. It was a base-model MacBook Air, and I very quickly found the limits of its 4GB of RAM. Not long after that, our family's PS3 died, and I began meticulously disassembling it with a single flat-head screwdriver. I had to get a bit creative with that disassembly and I'll admit to stripping a few screws in the process of getting them out, but it was a learning experience for me. Never before had I seen the inside of a computer, and in it I found a new world. Snap Circuits and breadboards couldn't prepare me for the labyrinth of delicate electronics I found inside.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since that point, I've taken apart every type of electronic I could get my hands on. I've replaced the batteries of almost every iPhone model from the 4S to the iPhone X, and I've done a ton of extra toying around with a variety of newer and older broken phones. Armed with nothing but an iFixit driver kit, I've repaired the battery and speakers on an A1706 MacBook, replaced the backlight of an A1534, replaced the display of a 2018 iPad pro, and repaired more Windows laptops than I can remember the models for. I've found Dell, ASUS, HP, and Acer laptops have all found their ways to my desk. When I was given the iFixit Repair Business Toolkit, my efforts redoubled. I took apart my own MacBook and put it back together, just to prove to myself I could do it. I diagnosed and fixed an old GameCube, I fixed the display of a Nintendo Switch, repaired the joysticks on four sets of JoyCons for as many people, repaired every generation of PlayStation controller except the original, and have in the last year and a half, I've finally gotten into repairing and maintaining PCs.
+
+I'm by no means an expert in computer repair. I've only dabbled in microsoldering, and I haven't yet had any opportunities to test my budding skill in it on computers in need of delicate board repair.
+
+And for all my tinkering, for all the repairs I've done and the computers I've acquired, I have very little to show for it. I've made less than $1,000 profit for all the repairs I've done for others combined, and almost every computer I've acquired and fixed, I've given away to someone I knew needed it, for free.
+
+I care about people.
+
+That's such a simple statement, for how much of my life it affects. I care about people. I care about their lives and their struggles, their wants and their dreams, and I have always wanted to help the people around me as much as I can. I've been born into a position of relative privilege, compared to those around me. My father is a doctor, and after the age of around eight, when my father paid off the last of his student debts, I haven't lacked for my needs or most of my wants. I know people in my position who have turned to judgment of those who are less fortunate than they are, and I'll admit I've never really understood that. Every time I realise I've been blessed in a way that someone else isn't, I try to find a way to share that blessing with them. I'm lucky enough to have been gifted an M-series MacBook Pro with every single spec maxed out (except storage, I only needed 1TB). I'm lucky enough to have also been given a Framework 16, that capably handles both Linux and Windows 11 with grace. I've been blessed with the free time to learn how to mess around with computers, and the capacity to learn the basics of every major operating system.
+
+And recognising that, I wanted to give back to people. I used the skills that I gained to help people figure out what they could do. I've advised almost a dozen people in the purchase of new phones. Some I recommended the top-of-the-line iPhone model to, and to others, I recommended the base model from the year prior. I've advised people to get everything from $200 Windows laptops to a $3,000 MacBook Pro. I looked for their needs, talked with them about the things they wanted most, and the things they didn't want, helped them figure out what was too expensive for their use case, and helped them navigate a world that was completely overwhelming to them.
+
+And look, I'm not saying this to make me look all bright and shiny; I'm not some angel who drinks pure sunlight and bleeds ambrosia. I have Autism and ADHD. I deal with chronic depression, an anxiety disorder, and PTSD from childhood experiences at school. I can take things too literally, interpret people's sarcasm as serious. I've been hurt because I failed to realise that the person I was interacting was trying to hurt me. I can miss things that people are trying to explain to me because the way my brain interprets things is fundamentally different than the way most people's brains interpret them. I have real, actual struggles, and they affect me every day. I make mistakes, I break things, I trip and I stumble. I always look to get back up and learn from those mistakes and struggles, but they're still real struggles.
+
+I'm not perfect, and I never will be. I don't know everything, and I can't do everything that there is to be done. I've spent the last two years of my life wholly focused on volunteering in food pantries and spending time with people who are lost without homes or jobs. My biggest struggle has been accepting that no matter how hard I try, I can't lift the burdens of everyone I come across, and in learning that I can still make a difference if I never stop trying to do my best. In recognition of that, I have a goal that takes priority above everything else I do in a day, and I take it with me in everything I do.
+
+If I can help even one person smile, I've succeeded.
